@@ -25,7 +25,7 @@ SECRET_KEY = '(!i4dxxxh(ycg_6esfr^fa=oo721*(9ns-73b@mm7ww-c(d3lq'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['plagiarismscanner.herokuapp.com']
 
 
 # Application definition
