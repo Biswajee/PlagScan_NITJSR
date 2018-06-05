@@ -1,1 +1,1 @@
-web: gunicorn PlagCheck/wsgi.py
+web: gunicorn PlagCheck.wsgi
